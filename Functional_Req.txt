@@ -1,0 +1,10 @@
+
+
+ Django sign-in and Sign-out Functionality.
+
+- accessing inbuilt authentication and authorization of django.
+- we have built a login page for users and customers with authentication required to access our application.
+- we have restricted Users from accessign home dashboard page without login fucntionlity. [ @login_required ]
+
+
+ 
